@@ -52,3 +52,11 @@ tr.iadsdk.apple.com
 api-adservices.apple.com
 samsung-com.112.2o7.net
 samsungads.com
+looscreech.com
+ipv4only.arpa
+friendshipmale.com
+cdn18685953.ahacdn.me
+r3.o.lencr.org
+pl15371971.highcpmrevenuenetwork.com
+addresseepaper.com
+
