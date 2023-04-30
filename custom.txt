@@ -67,3 +67,4 @@ ads.tiktok.com
 advertising.yandex.ru
 metrics.icloud.com
 samsungads.com
+metrics.icloud.com
