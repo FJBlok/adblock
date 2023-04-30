@@ -1,3 +1,4 @@
+adservetx.media.net
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
@@ -59,4 +60,10 @@ cdn18685953.ahacdn.me
 r3.o.lencr.org
 pl15371971.highcpmrevenuenetwork.com
 addresseepaper.com
-
+freshmarketer.com
+claritybt.freshmarketer.com
+w1.luckyorange.com
+ads.tiktok.com
+advertising.yandex.ru
+metrics.icloud.com
+samsungads.com
